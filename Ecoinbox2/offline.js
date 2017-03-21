@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1488819697,
+	"version": 1490063640,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,6 +12,7 @@
 		"images/playgame-sheet0.png",
 		"images/menubutton-sheet0.png",
 		"images/menubutton-sheet1.png",
+		"images/menubutton-sheet2.png",
 		"images/soundon-sheet0.png",
 		"images/soundon-sheet1.png",
 		"images/fundo-sheet0.png",
